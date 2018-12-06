@@ -216,32 +216,46 @@ working using only the key press events.
 仅仅使用 key press 事件来工作.
 
 When you want to stop monitoring a node's events,
+当我想要停止监听 节点 的事件的时候,
 
 call unmonitorEvents, and pass the node as the first argument
+调用 unmonitorEvents, 并且再次传递这个节点作为第一个
 
 again.
+参数.
 
 You can also limit what events get
+你也可以限制什么事件被
 
 logged by passing an array as the second argument, where
+打印, 通过传递一个数组作为第二个参数, 这里的
 
 each item of the array is the name of an event
+数组的每一个元素都是你感兴趣的
 
 that you care about, such as key press and focus.
+一个事件的名字, 比如 key press 和 focus.
 
 We also have a few shorthand codes
+我们也有一些缩写代号
 
-that lat you monitor a group of related events all at once.
+that let you monitor a group of related events all at once.
+这可以让你一次监听一组相关事件.
 
 For example, passing the mouse code
+例如, 传递 mouse 代号
 
 tells DevTools to log all mouse-related events.
+告诉 DevTools 去打印鼠标相关事件.
 
 Check out the monitorEvents API reference to learn more.
+查看 monitorEvents API 参考来获取更多.
 
-Thanks for wantching.
+Thanks for watching.
+谢谢观看.
 
 See you to six weeks for Chrome 72.
+六周之后再 Chrome 72 再见.
 
 [MUSIC PLAYING]
 [MUSIC PLAYING]
