@@ -143,7 +143,7 @@ Dialogue: 2,0:02:45.05,0:02:49.40,Default,,0,0,0,,并且为了使 Chrome 符合 
 Dialogue: 1,0:02:45.05,0:02:49.40,Default-L2,,0,0,0,,And bringing Chrome in line with the Shadow DOM V1 spec,
 Dialogue: 2,0:02:49.53,0:02:52.72,Default,,0,0,0,,Chrome 71 现在计算 :host(), :host-context(),
 Dialogue: 1,0:02:49.53,0:02:52.72,Default-L2,,0,0,0,,Chrome 71 now calculates the specificity
-Dialogue: 2,0:02:52.72,0:02:56.19,Default,,0,0,0,,和 被插入的元素 的特殊性.
+Dialogue: 2,0:02:52.72,0:02:56.19,Default,,0,0,0,,和 ::slotted 元素 的权重.
 Dialogue: 1,0:02:52.72,0:02:56.19,Default-L2,,0,0,0,,for :host(), :host-context(), and slotted elements.
 Dialogue: 2,0:02:56.89,0:02:58.95,Default,,0,0,0,,如果你没有参加 Chrome Dev Summit, 或者是
 Dialogue: 1,0:02:56.89,0:02:58.95,Default-L2,,0,0,0,,If you didn't make is to Chrome Dev Summit, or
